@@ -3,7 +3,7 @@ if (!process.argv[3]){console.log('no output file');process.exit(1)};
 
 var file = require('fs').readFileSync(process.argv[2])+'';
 
-var o = 'Tro',i=0;
+var o = 'Tro',i=-1;
 while (i++ < file.length) {
 	switch (file[i]) {
 		case '>':o+='ooo';break;
