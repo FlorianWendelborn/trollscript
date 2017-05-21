@@ -1,18 +1,18 @@
-#trollscript.js
+# trollscript.js
 
-##Description
+## Description
 Node.js [trollscript](https://github.com/tombell/trollscript) interpreter.
 
-##Usage
-###Interpreter
+## Usage
+### Interpreter
 
     node trollscript.js filename "example input"
 
-###Generator
+### Generator
 
     node brainfuckToTrollscript.js inputFilename outputFilename
 
-##License
+## License
 
 The MIT License (MIT)
 
