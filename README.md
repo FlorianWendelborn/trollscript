@@ -1,4 +1,4 @@
-# trollscript.js
+# Trollscript
 
 ## Description
 Node.js [trollscript](https://github.com/tombell/trollscript) interpreter.
